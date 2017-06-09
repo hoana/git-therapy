@@ -7,5 +7,5 @@
 
 void sayHi (void)
 {
-    printf("hello!\n");
+    printf("hello there!\n");
 }
